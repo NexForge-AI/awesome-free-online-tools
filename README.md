@@ -16,6 +16,8 @@ A curated list of genuinely useful, free, no-signup-required online tools — or
 - [WebTools Engine – SEO Toolkit](https://blazesolutions.info/seo-tools) — meta title/description checker, readability score, schema validator, website carbon calculator
 - [Google Search Console](https://search.google.com/search-console)
 
+- [Meta Title Checker & SERP Preview](https://blazesolutions.info/tools/meta-title-checker)
+
 ## Generators
 - [WebTools Engine – QR Code, Barcode & UTM Builder](https://blazesolutions.info/generators)
 - [QR Code Monkey](https://www.qrcode-monkey.com/)
@@ -26,6 +28,7 @@ A curated list of genuinely useful, free, no-signup-required online tools — or
 ## Developer Tools
 - [WebTools Engine – JSON Formatter, Regex Tester, Diff Checker](https://blazesolutions.info/developer-tools)
 - [JSONLint](https://jsonlint.com/)
+- [Caesar Cipher](https://blazesolutions.info/tools/caesar-cipher)
 
 ---
 **Contributing**: Found a great free tool? Open a PR!
