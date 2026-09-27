@@ -8,6 +8,7 @@ A curated list of genuinely useful, free, no-signup-required online tools — or
 - [SmallPDF](https://smallpdf.com/)
 
 ## Image Tools
+- [FileOnTap](https://fileontap.com/) — Free browser-based image and PDF File Converter; local processing, no upload, no account.
 - [WebTools Engine – Image Compressor & Metadata Remover](https://blazesolutions.info/image-tools) — compress, resize, crop, strip EXIF data client-side
 - [TinyPNG](https://tinypng.com/)
 - [Squoosh](https://squoosh.app/)
