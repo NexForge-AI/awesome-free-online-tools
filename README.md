@@ -11,6 +11,7 @@ A curated list of genuinely useful, free, no-signup-required online tools — or
 - [WebTools Engine – Image Compressor & Metadata Remover](https://blazesolutions.info/image-tools) — compress, resize, crop, strip EXIF data client-side
 - [TinyPNG](https://tinypng.com/)
 - [Squoosh](https://squoosh.app/)
+- [FileOnTap – HEIC to PNG](https://fileontap.com/heic-to-png/) — convert HEIC photos to PNG online free with no signup; files are processed locally in your browser and never uploaded
 
 ## SEO Tools
 - [WebTools Engine – SEO Toolkit](https://blazesolutions.info/seo-tools) — meta title/description checker, readability score, schema validator, website carbon calculator
