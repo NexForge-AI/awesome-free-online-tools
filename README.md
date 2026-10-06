@@ -23,6 +23,7 @@ A curated list of genuinely useful, free, no-signup-required online tools — or
 - [QR Code Monkey](https://www.qrcode-monkey.com/)
 
 ## Calculators
+- [KupFollowersow.pl Growth Calculator (Polish)](https://kupfollowersow.pl/tools/follower-growth) — Free browser calculator for the daily and weekly net follower gains needed to reach a target, without an account or profile lookup.
 - [WebTools Engine – Loan, TDEE, Discount Calculators](https://blazesolutions.info/calculators)
 
 ## Developer Tools
