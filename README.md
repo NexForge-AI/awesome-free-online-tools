@@ -25,6 +25,8 @@ A curated list of genuinely useful, free, no-signup-required online tools — or
 ## Calculators
 - [WebTools Engine – Loan, TDEE, Discount Calculators](https://blazesolutions.info/calculators)
 
+- [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) — estimate US roof replacement cost ranges by roof size, material, location, and tear-off choice
+
 ## Developer Tools
 - [WebTools Engine – JSON Formatter, Regex Tester, Diff Checker](https://blazesolutions.info/developer-tools)
 - [JSONLint](https://jsonlint.com/)
