@@ -10,6 +10,7 @@ A curated list of genuinely useful, free, no-signup-required online tools — or
 ## Image Tools
 - [WebTools Engine – Image Compressor & Metadata Remover](https://blazesolutions.info/image-tools) — compress, resize, crop, strip EXIF data client-side
 - [TinyPNG](https://tinypng.com/)
+- [Background Remover – free in-browser cutouts](https://tomaserben.com/free-tools/image-background-remover) — remove photo backgrounds on your device with no upload or signup; transparent PNG out
 - [Squoosh](https://squoosh.app/)
 
 ## SEO Tools
