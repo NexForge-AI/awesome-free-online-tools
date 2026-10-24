@@ -8,6 +8,7 @@ A curated list of genuinely useful, free, no-signup-required online tools — or
 - [SmallPDF](https://smallpdf.com/)
 
 ## Image Tools
+- [TeslaWraps](https://teslawraps.design) — Free browser Tesla wrap designer: templates, 3D preview, PNG export. Core editing free, no account required.
 - [WebTools Engine – Image Compressor & Metadata Remover](https://blazesolutions.info/image-tools) — compress, resize, crop, strip EXIF data client-side
 - [TinyPNG](https://tinypng.com/)
 - [Squoosh](https://squoosh.app/)
