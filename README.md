@@ -21,6 +21,7 @@ A curated list of genuinely useful, free, no-signup-required online tools — or
 ## Generators
 - [WebTools Engine – QR Code, Barcode & UTM Builder](https://blazesolutions.info/generators)
 - [QR Code Monkey](https://www.qrcode-monkey.com/)
+- [8D Gate Document Register Generator](https://8d-gate.vercel.app/document-register-generator) — builds a document register (IDs, revisions, issue and review dates) from a list of titles, in the browser; on-screen result needs no email
 
 ## Calculators
 - [WebTools Engine – Loan, TDEE, Discount Calculators](https://blazesolutions.info/calculators)
