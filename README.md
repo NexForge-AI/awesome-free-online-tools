@@ -29,6 +29,8 @@ A curated list of genuinely useful, free, no-signup-required online tools — or
 - [WebTools Engine – JSON Formatter, Regex Tester, Diff Checker](https://blazesolutions.info/developer-tools)
 - [JSONLint](https://jsonlint.com/)
 - [Caesar Cipher](https://blazesolutions.info/tools/caesar-cipher)
+- [Jvlang AI Codex Usage Tracker](https://jvlangai.com/codex-reset) - Compare manually confirmed Codex usage with the weekly time window, with a countdown and calendar export.
+
 
 ---
 **Contributing**: Found a great free tool? Open a PR!
