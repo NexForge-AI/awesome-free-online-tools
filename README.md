@@ -28,6 +28,7 @@ A curated list of genuinely useful, free, no-signup-required online tools — or
 ## Developer Tools
 - [WebTools Engine – JSON Formatter, Regex Tester, Diff Checker](https://blazesolutions.info/developer-tools)
 - [JSONLint](https://jsonlint.com/)
+- [OnlineTool.co](https://onlinetool.co/) — Free online calculators, coding tools, generators, and converters (no signup)
 - [Caesar Cipher](https://blazesolutions.info/tools/caesar-cipher)
 
 ---
