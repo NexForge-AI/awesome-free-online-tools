@@ -21,6 +21,7 @@ A curated list of genuinely useful, free, no-signup-required online tools — or
 ## Generators
 - [WebTools Engine – QR Code, Barcode & UTM Builder](https://blazesolutions.info/generators)
 - [QR Code Monkey](https://www.qrcode-monkey.com/)
+- [RandomGeneratr](https://randomgeneratr.com/npc-generator) — Free NPC cards with names, motives, flaws, secrets, factions, and story hooks; ordinary generation and individual copying require no signup, while saved favorites require sign-in.
 
 ## Calculators
 - [WebTools Engine – Loan, TDEE, Discount Calculators](https://blazesolutions.info/calculators)
