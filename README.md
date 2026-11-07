@@ -8,6 +8,7 @@ A curated list of genuinely useful, free, no-signup-required online tools — or
 - [SmallPDF](https://smallpdf.com/)
 
 ## Image Tools
+- [ASCII Images](https://ascii-images.com/image-to-ascii) — free browser image-to-ASCII converter with text downloads and no account required
 - [WebTools Engine – Image Compressor & Metadata Remover](https://blazesolutions.info/image-tools) — compress, resize, crop, strip EXIF data client-side
 - [TinyPNG](https://tinypng.com/)
 - [Squoosh](https://squoosh.app/)
