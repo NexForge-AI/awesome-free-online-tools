@@ -21,6 +21,7 @@ A curated list of genuinely useful, free, no-signup-required online tools — or
 ## Generators
 - [WebTools Engine – QR Code, Barcode & UTM Builder](https://blazesolutions.info/generators)
 - [QR Code Monkey](https://www.qrcode-monkey.com/)
+- [Cursive Generation](https://cursive-generation.com/cursive-generator) — Free browser tool for previewing text in cursive fonts; copying retains plain text.
 
 ## Calculators
 - [WebTools Engine – Loan, TDEE, Discount Calculators](https://blazesolutions.info/calculators)
