@@ -23,6 +23,7 @@ A curated list of genuinely useful, free, no-signup-required online tools — or
 - [QR Code Monkey](https://www.qrcode-monkey.com/)
 
 ## Calculators
+- [Calculation Hub](https://calculation-hub.com/) — free searchable calculators with formulas and assumptions; no login required
 - [WebTools Engine – Loan, TDEE, Discount Calculators](https://blazesolutions.info/calculators)
 
 ## Developer Tools
