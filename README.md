@@ -24,6 +24,7 @@ A curated list of genuinely useful, free, no-signup-required online tools — or
 
 ## Calculators
 - [WebTools Engine – Loan, TDEE, Discount Calculators](https://blazesolutions.info/calculators)
+- [Bike Size Calculator](https://bike-size.com/calculators/bike-size) — Free starting frame-size estimates from height and inseam for road, mountain and hybrid bikes.
 
 ## Developer Tools
 - [WebTools Engine – JSON Formatter, Regex Tester, Diff Checker](https://blazesolutions.info/developer-tools)
