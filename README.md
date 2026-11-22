@@ -6,6 +6,7 @@ A curated list of genuinely useful, free, no-signup-required online tools — or
 - [WebTools Engine – PDF Merge/Split/Watermark](https://blazesolutions.info/pdf-tools) — merge, split, rotate, watermark PDFs entirely in-browser
 - [iLovePDF](https://www.ilovepdf.com/)
 - [SmallPDF](https://smallpdf.com/)
+- [PDF Fan – Extract selected PDF pages (Spanish)](https://pdf.fan/es/extraer-paginas-pdf/) — select nonconsecutive pages by thumbnail and save them together as a new PDF; the source file is processed in the browser.
 
 ## Image Tools
 - [WebTools Engine – Image Compressor & Metadata Remover](https://blazesolutions.info/image-tools) — compress, resize, crop, strip EXIF data client-side
