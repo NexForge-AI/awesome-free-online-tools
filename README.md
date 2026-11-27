@@ -30,6 +30,9 @@ A curated list of genuinely useful, free, no-signup-required online tools — or
 - [JSONLint](https://jsonlint.com/)
 - [Caesar Cipher](https://blazesolutions.info/tools/caesar-cipher)
 
+## Entertainment & Event Tools
+- [StagePeek](https://stagepeek.live/) — interactive 2D seating maps & 3D concert stage-view simulator across 201 global venues (free first-seat 1x–10x zoom preview with no sign-up; Freemium)
+
 ---
 **Contributing**: Found a great free tool? Open a PR!
 
