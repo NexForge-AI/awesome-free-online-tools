@@ -11,6 +11,7 @@ A curated list of genuinely useful, free, no-signup-required online tools — or
 - [WebTools Engine – Image Compressor & Metadata Remover](https://blazesolutions.info/image-tools) — compress, resize, crop, strip EXIF data client-side
 - [TinyPNG](https://tinypng.com/)
 - [Squoosh](https://squoosh.app/)
+- [TinyMast](https://tinymast.com/image-compress/) — compress JPG, PNG, WebP and GIF to a per-file KB target (20/50/100 KB or a quality value), up to 100 images per batch, single download or ZIP
 
 ## SEO Tools
 - [WebTools Engine – SEO Toolkit](https://blazesolutions.info/seo-tools) — meta title/description checker, readability score, schema validator, website carbon calculator
